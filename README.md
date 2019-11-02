@@ -1,10 +1,6 @@
 # Aseem Wangoo
 
-<p align="center">
-<img width="800px"  src="https://raw.githubusercontent.com/AseemWangoo/flutter_programs/master/Discover.mp4">
-</p>
-<p align="center"><a href="#getting-started">:rocket: Get Started</a></p>
-
+![](https://github.com/AseemWangoo/flutter_programs/blob/master/d.gif)
 ## ‍👨‍💻 ‍Published Works...
 <a href="https://medium.com/@aseemwangoo"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="60"></a>
 <a href="https://twitter.com/aseemwangoo"><img src="https://img.icons8.com/color/50/000000/twitter-circled.png" width="60"></a>
