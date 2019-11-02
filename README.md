@@ -1,5 +1,3 @@
-# Aseem Wangoo
-
 ![](https://github.com/AseemWangoo/flutter_programs/blob/master/d.gif)
 ## ‍👨‍💻 ‍Published Works...
 <a href="https://medium.com/@aseemwangoo"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="60"></a>
