@@ -18,4 +18,8 @@
 </p>
 <p align="center"><a href="#getting-started">:rocket: Get Started</a></p>
 
+<a href="https://medium.com/@aseemwangoo"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/aseemwangoo"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/aseemwangoo"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+
 
