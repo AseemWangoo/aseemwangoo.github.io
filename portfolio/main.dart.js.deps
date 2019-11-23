@@ -33,6 +33,7 @@ file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/collection-
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
+file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/transparent_image-1.0.0/lib/transparent_image.dart
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/html.dart
 file:///Users/aseemwangoo/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/src/_sdk/html.dart
@@ -93,6 +94,7 @@ file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/c
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/recording_canvas.dart
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/runtime_delegate.dart
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/surface.dart
+file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/text.dart
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/util.dart
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/vertices.dart
 file:///Users/aseemwangoo/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/viewport_metrics.dart
