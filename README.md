@@ -4,9 +4,10 @@
 
 ## ‍🗣 Speaker at...
 
-* [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
+* [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
+[![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
 
-* [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
+* [![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
 
 #### Featured In :star:
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
