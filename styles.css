@@ -110,9 +110,9 @@ a:hover {
 .mast-top {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 1.5rem 2rem;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.25rem 2rem;
 }
 
 h1 {
@@ -186,7 +186,7 @@ h1 {
 
 .band h2 {
   margin: 0;
-  font-size: 1.65rem;
+  font-size: 1.45rem;
 }
 
 .idx {
@@ -251,13 +251,18 @@ h1 {
   border-bottom: 1px solid var(--line);
 }
 
-.link-list a {
+.link-list a,
+.link-list .talk {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
   min-block-size: 2.75rem;
+  margin: 0;
   padding-block: 0.65rem;
+}
+
+.link-list a {
   text-decoration: none;
 }
 
@@ -293,7 +298,7 @@ h1 {
 
 @media (min-width: 56rem) {
   .band {
-    grid-template-columns: 12rem minmax(0, 1fr);
+    grid-template-columns: 16rem minmax(0, 1fr);
     align-items: start;
   }
 
