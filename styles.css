@@ -206,7 +206,7 @@ h1 {
 }
 
 .build h3,
-.voice h3,
+.stack h3,
 .work h3 {
   margin: 0 0 0.35rem;
   font-size: 1.2rem;
@@ -228,13 +228,28 @@ h1 {
   margin: 0;
 }
 
-.voice {
+.detail {
+  margin: 0;
+  padding-inline-start: 1.1rem;
+}
+
+.detail li + li {
+  margin-top: 0.35rem;
+}
+
+.stack {
   display: grid;
   gap: 2rem;
 }
 
-.voice h3 {
-  margin-bottom: 0.35rem;
+.note {
+  margin-bottom: 1rem;
+  color: var(--muted);
+}
+
+.split {
+  display: grid;
+  gap: 2rem;
 }
 
 .link-list {
@@ -254,12 +269,16 @@ h1 {
 .link-list a,
 .link-list .talk {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
   min-block-size: 2.75rem;
   margin: 0;
   padding-block: 0.65rem;
+}
+
+.link-list .label {
+  min-width: 0;
 }
 
 .link-list a {
@@ -311,7 +330,7 @@ h1 {
     grid-template-columns: 14rem minmax(0, 1fr);
   }
 
-  .voice {
+  .split {
     grid-template-columns: 1fr 1fr;
     gap: 2rem 2.5rem;
     align-items: start;
